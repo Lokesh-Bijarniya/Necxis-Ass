@@ -38,4 +38,4 @@ This is a simple social media app built with Next.js and Tailwind CSS.
    npm run dev
 
 5. Open http://localhost:3000 in your browser.
-# Necxis-Ass
+
